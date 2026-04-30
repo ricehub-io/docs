@@ -1,3 +1,7 @@
+---
+lastUpdated: 2026-03-03
+---
+
 Welcome to RiceHub! By using our website, you agree to these terms of service.
 
 ## Using the service

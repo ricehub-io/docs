@@ -1,3 +1,7 @@
+---
+lastUpdated: 2026-03-03
+---
+
 ## Introduction
 This Privacy Policy explains how RiceHub ("we", "us", "our") collects and processes personal data when you use our website.
 
