@@ -1,4 +1,5 @@
 ---
+title: Terms of Service
 lastUpdated: 2026-03-03
 ---
 

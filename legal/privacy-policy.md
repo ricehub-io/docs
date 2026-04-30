@@ -1,4 +1,5 @@
 ---
+title: Privacy Policy
 lastUpdated: 2026-03-03
 ---
 
